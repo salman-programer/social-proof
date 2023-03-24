@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h2{
+    font-size: 30px;
+    color: hsl(300, 43%, 22%);
+}
+.two{
+    margin-top: -19px;
+}
+.one-p,.two-p,.three-p{
+    color: hsl(300, 43%, 22%);
+}
+.three-p{
+    margin-top: -20px;
+}
+.box{
+    width: 150px;
+    height: 200px;
+    background-color: hsl(300, 43%, 22%);
+}
+.first-star,.second-star,.third-star{
+    background-color: hsla(333, 80%, 67%, 0.22);
+    margin-left: 400px;
+    border-radius: 3px;
+}
+.first-star,.second-star,.third-star{
+    width: 360px;
+    height: 40px;
+}
+.review,.guru,.tech{
+    margin-left: 120px;
+    margin-top: -22px;
+}
+.first-star{
+    margin-top: -120px;
+    margin-bottom: 10px;
+}
+.second-star{
+    margin-left: 430px;
+    margin-bottom: 10px;
+}
+.third-star{
+    margin-left: 460px;
+}
+.star-one{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.all>h2{
+    margin-left: 20px;
+}
+.one-h{
+    margin-top: 30px;
+}
+.all>p{
+    margin-left: 20px;
+}
+.one-p{
+    margin-top: 10px;
+}
+.man-img{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.white-man{
+    color: white;
+    margin-left: 75px;
+    margin-top: -34px;
+}
+.pink-man{
+    color: hsl(333, 80%, 67%);
+    margin-left: 75px;
+    /* margin-top: -20px; */
+}
+.smith{
+    width: 31%;
+    height: 220px;
+    background-color: hsl(300, 43%, 22%);
+    margin-left: 10px;
+    border-radius: 5px;
+}
+.smith>p{
+    margin-left: 20px;
+    color: white;
+}
+.irene{
+    width: 31%;
+    height: 220px;
+    background-color: hsl(300, 43%, 22%);
+    margin-left: 305px;
+    border-radius: 5px;
+    margin-top: -195px;
+}
+.irane{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.robert{
+    margin-left: 20px;
+    color: white;
+}
+.name{
+    color: white;
+    margin-left: 75px;
+    margin-top: -34px;
+}
+.woman-one{
+    color: hsl(333, 80%, 67%);
+    margin-left: 75px;
+}
+.woman-two{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.anne{
+    width: 31%;
+    height: 220px;
+    background-color: hsl(300, 43%, 22%);
+    margin-left: 605px;
+    border-radius: 5px;
+    margin-top: -200px;
+}
+.ana{
+    color: white;
+    margin-left: 75px;
+    margin-top: -34px;
+}
+.ber{
+    color: hsl(333, 80%, 67%);
+    margin-left: 75px;
+}
+.person{
+    margin-left: 20px;
+    color: white;
+}
